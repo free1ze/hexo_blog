@@ -16,3 +16,6 @@ tags:
     git config --global --unset http.proxy
 ```
 
+修改dns为114.114.114.114
+[windows如何修改dns](https://zhuanlan.zhihu.com/p/265364903)
+
